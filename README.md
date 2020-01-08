@@ -1,4 +1,4 @@
-MOVIE BOOKING MANAGEMENT SYSTEM :
+#MOVIE BOOKING MANAGEMENT SYSTEM:
 
 	We intend to create a movie booking management system with administrator and customer access. The administrator account would allow to add/delete movies, change timings/venue of movie, view customer details as well as the seat allocations.
 
@@ -7,7 +7,7 @@ MOVIE BOOKING MANAGEMENT SYSTEM :
 	We used XAMPP software for this purpose.
 
 
-PLATFORMS USED :
+#PLATFORMS USED :
 
 	Front-end - HTML , CSS
 
@@ -16,7 +16,7 @@ PLATFORMS USED :
 	Linking    - PHP
 
 
-ADMINISTRATOR ACCOUNT :
+#ADMINISTRATOR ACCOUNT :
 
 	We intend to be able to perform the following actions with the administrator access :-
 1.	Sign-in/Sign-up
@@ -25,7 +25,7 @@ ADMINISTRATOR ACCOUNT :
 4.	View customer details (all account activity)
 5.	User can search for details of any movie as per his choice.
 
-CUSTOMER ACCOUNT:
+#CUSTOMER ACCOUNT:
 
 	We intend to be able to perform the following actions with the administrator access:-
 1.	Sign-in/Sign-up
@@ -36,7 +36,7 @@ CUSTOMER ACCOUNT:
 6.	View previous bookings
 7.	Book more than one ticket being the same user.
 
-DATABASE DETAILS :
+#DATABASE DETAILS :
 
 Database name : dbmsproject
 
